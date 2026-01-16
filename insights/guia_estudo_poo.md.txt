@@ -1,0 +1,15 @@
+# 💡 Insights de Aprendizado Ativo
+
+Durante a interação com o NotebookLM, foram gerados os seguintes marcos de conhecimento:
+
+### 1. A Analogia do Compilador
+
+A maior descoberta deste projeto foi perceber que a IA Generativa atua como um **interpretador em tempo real** para textos técnicos. Ao "rodar" um PDF de POO no NotebookLM, a IA permite debugar conceitos da mesma forma que um desenvolvedor debuga um código Python.
+
+### 2. POO na Prática
+
+A organização dos documentos seguindo a lógica de "Classes de Conhecimento" permitiu que a IA fizesse conexões entre herança de código e herança de conceitos históricos da computação.
+
+### 3. Eficiência Pythonica
+
+O uso do Python como base mental ajudou a filtrar o que é "açúcar sintático" do que é lógica estrutural dentro das fontes carregadas.

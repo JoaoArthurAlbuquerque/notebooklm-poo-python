@@ -1,0 +1,9 @@
+# ❓ Perguntas de Verificação (QA)
+
+Estas foram as perguntas fundamentais utilizadas para validar o conhecimento dentro do NotebookLM:
+
+1.  "Como o encapsulamento em POO pode ser comparado à privacidade de dados em modelos de IA?"
+
+2.  "De que maneira a tipagem dinâmica do Python influencia a forma como a IA interpreta variáveis em um script?"
+
+3.  "Crie um roteiro de estudo que conecte os pilares da POO com as bibliotecas modernas de IA em Python."
